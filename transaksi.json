@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676cae4c6240c1f474ff602d"},"ID":"SK001","name":"Nada","layanan":"pergantian","biaya":"150.000","metode":"Qris","date":"26-12-24","status":"done"}
+{"_id":{"$oid":"676cae776240c1f474ff602e"},"ID":"SK002","name":"Agus","layanan":"pergantian","biaya":"110.000","metode":"Transfer BNI","date":"26-12-24","status":"done"}
